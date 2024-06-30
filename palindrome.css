@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(3, 3, 41);
+    color: whitesmoke
+
+}
+
+.title{
+ display: flex;
+ justify-content: center;
+ font-size: xx-large;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ padding-top: 30px
+}
+.container-input{
+     display: flex;
+     justify-content: center;
+     padding: 50px
+}
+
+.user-input{
+    font-size: 40px;
+   
+}
+
+.originalInput{
+    color: purple
+}
+
+.container-result{
+    display: flex;
+    justify-content: center;
+}
+
+#check-btn{
+    width: 60px;
+    background-color: chocolate;
+    height: 40px;
+    border: solid black 2px;
+    
+    
+}
+
+#text-input{
+   
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
